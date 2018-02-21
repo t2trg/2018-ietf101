@@ -22,14 +22,14 @@ Notes: <https://etherpad.tools.ietf.org/p/notes-irtf-101-t2trg>
 
 Please contact [chairs][] for any slot proposals.
 
-|  Time | Who    | Subject                  | Docs                                                                                                                                                                                 |
-|-------+--------+--------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 15:50 | Chairs | Intro, RG Status         | [draft-irtf-t2trg-iot-seccons](https://tools.ietf.org/html/draft-irtf-t2trg-iot-seccons-11) [draft-irtf-t2trg-rest-iot-00](https://tools.ietf.org/html/draft-irtf-t2trg-rest-iot-00) |
-| 16:00 | Chairs | Report from Hackathon    |                                                                                                                                                                                      |
-| 16:10 |        | Talks (TBA)              |                                                                                                                                                                                      |
-|       |        |                          |                                                                                                                                                                                      |
-| 17:40 | Chairs | Meeting Planning, Wrapup | [OCF/W3C-WoT][OCF]                                                                                                                                                                   |
-|       |        |                          |                                                                                                                                                                                      |
+    |  Time | Who    | Subject                  | Docs                                                                                                                                                                                 |
+    |-------+--------+--------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+    | 15:50 | Chairs | Intro, RG Status         | [draft-irtf-t2trg-iot-seccons](https://tools.ietf.org/html/draft-irtf-t2trg-iot-seccons-11) [draft-irtf-t2trg-rest-iot-00](https://tools.ietf.org/html/draft-irtf-t2trg-rest-iot-00) |
+    | 16:00 | Chairs | Report from Hackathon    |                                                                                                                                                                                      |
+    | 16:10 |        | Talks (TBA)              |                                                                                                                                                                                      |
+    |       |        |                          |                                                                                                                                                                                      |
+    | 17:40 | Chairs | Meeting Planning, Wrapup | [OCF/W3C-WoT][OCF]                                                                                                                                                                   |
+    |       |        |                          |                                                                                                                                                                                      |
 
 [Berlin]: https://github.com/t2trg/2017-09-berlin
 [OCF]: https://github.com/t2trg/2018-03-ocf
