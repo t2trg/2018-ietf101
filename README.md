@@ -23,7 +23,7 @@ Notes: <https://etherpad.tools.ietf.org/p/notes-irtf-101-t2trg>
 Please contact [chairs][] for any slot proposals.
 
 |  Time | Who    | Subject                  | Docs                                                                                                                                                                                 |
-|-------+--------+--------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-------|--------|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 15:50 | Chairs | Intro, RG Status         | [draft-irtf-t2trg-iot-seccons](https://tools.ietf.org/html/draft-irtf-t2trg-iot-seccons-11) [draft-irtf-t2trg-rest-iot-00](https://tools.ietf.org/html/draft-irtf-t2trg-rest-iot-00) |
 | 16:00 | Chairs | Report from Hackathon    |                                                                                                                                                                                      |
 | 16:10 |        | Talks (TBA)              |                                                                                                                                                                                      |
