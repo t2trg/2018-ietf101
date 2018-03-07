@@ -1,24 +1,19 @@
 # 2018-ietf101
-Summary meeting at IETF 101
+T2TRG Summary meeting at IETF 101
 
-Original: <https://github.com/t2trg/2018-ietf101/>
-
-## T2TRG Summary Meeting
-
-* Time & place
-
-*Currently* scheduled on the draft [IETF main agenda][] for Thursday,
-March 22, 2018, 15:50..17:50 GMT (UTC+00:00)<!-- , [Raffles City Convention Center][], room Padang -->
+Currently scheduled on the [IETF main agenda][] for Thursday,
+March 22, 2018, 15:50..17:50 GMT (UTC+00:00)
 
 [IETF main agenda]: https://tools.ietf.org/agenda/101/#101-thu-1550-t2trg
 [DT-Main]: https://datatracker.ietf.org/meeting/101/agenda.html#t2trg
-[Raffles City Convention Center]: https://www.ietf.org/meeting/100/hotel.html
+
+## Materials
 
 Slides: <https://github.com/t2trg/2011-ietf101/tree/master/slides>
 
 Notes: <https://etherpad.tools.ietf.org/p/notes-irtf-101-t2trg>
 
-* Rough draft of an agenda:
+## Draft agenda
 
 Please contact [chairs][] for any slot proposals.
 
