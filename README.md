@@ -11,7 +11,7 @@ March 22, 2018, 15:50..17:50 GMT (UTC+00:00)
 
 Slides: <https://github.com/t2trg/2011-ietf101/tree/master/slides>
 
-Notes: <https://etherpad.tools.ietf.org/p/notes-irtf-101-t2trg>
+Notes: <https://etherpad.tools.ietf.org/p/notes-ietf-101-t2trg>
 
 ## Draft agenda
 
